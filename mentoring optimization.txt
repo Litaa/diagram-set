@@ -1,0 +1,61 @@
+1. After jam 18.00 gak bisa ajuin mentoring untuk hari senin
+2. Gimana kalo ngajuin after jam 18.00 tapi buat besok
+
+Menggunakan Trello :
+
+Proposal pipeline development:
+1. Problem statement -> optimisasi mentoring request 
+a. Who involved? Student, Mentor, and Admin
+b. What need to be done?
+c. Why should be solved?
+
+Create user story ->
+
+As an [entity] I want to do [something] so that [something happen].
+
+Mentor : Mendapatkan assignment mentoring sesuai dengan expertise masing-masing
+Student : Mendapat kepastian jadwal mentoring yang tersedia dengan cepat dan realtime
+Admin : Assignment student  terjadi secara otomatis sehingga tidak menghubungi mentor satu persatu
+
+PM :  Breakdown hal apa saja yang harus dilakukan untuk mendeliver user story
+2. WBS (Work Breakdown Structure)
+3. Timeline for each WBS
+4. Assign resource
+5. Set sprint
+6. UAT
+
+Pengukuran kinerja performance : 
+1. Bagaimana cara menghitung progress proyek
+Jawab : Total done/ Total WBS
+2. Metrik yang digunakan untuk mengukur performa
+Jawab : 
+a. Perbedaan waktu dengan timeline yang dialokasikan
+b. Burndown chart
+
+--------------------------------------------------------------------------------------------
+
+Performance metrik yang dapat di cek oleh setiap tim piket adalah :
+1. Kemerataan task (masing-masing task harus ada bobot)
+2. Burndown chart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
